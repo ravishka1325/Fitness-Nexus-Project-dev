@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900951290749",
+    "project_id": "finalfitness-7212a",
+    "storage_bucket": "finalfitness-7212a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900951290749:android:82ed1ae0cdd42814f3d214",
+        "android_client_info": {
+          "package_name": "com.example.gym_appfin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlxJ88-dtFnPZUZqwtJKMfinC8RUk7jLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
